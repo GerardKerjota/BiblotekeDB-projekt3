@@ -1,0 +1,30 @@
+Literature-Artistike/978-0140449266/Konti i Monte Kristos/Alexandre Dumas/502/novel
+Literature-Artistike/978-0486282114/Frankenstein/Mary Shelley/554/novel
+Literature-Artistike/978-0451531513/The hunchback of Notre Dame/Viktor Hygo/569/novel-historike
+Literature-Artistike/B07ZMKXMTG/Steve Jobs/Walter Isaacson/477/biografi
+Literature-Artistike/978-0307275257/How to be both/Ali Smith/346/fiction-novel
+Literature-Artistike/B082BDBJ2M/The Man in the Red Coat/Julian Barnes/315/-	 					
+Literature-Artistike/978-1590519134/Never Anyone But You/Rupert Thomson/212/novel
+Literature-Artistike/B00005NZJA/Snow Crash/Neal Stephenson/15/novel-science-fiction
+Literature-Artistike/978-9381358207/Bioinformatics/Dr Archana Pandeya,Santosh Choubey/80/-	 
+Literature-Artistike/B00CLBWD60/Spring Flowers, Spring Frost/Ismail Kadare/123/novel	
+Enciklopedi/978-0691118802/The Princeton Companion to Mathematics/Timothy Gowers/105/shkenca-ekzakte
+Enciklopedi/978-1465477026/An Anthology of Intriguing Animals/Ben Hoare/162/shtazore
+Enciklopedi/978-1413327748/Nolo's Encyclopedia of Everyday Law:Answers to Your Most Frequently Asked Legal Questions/Shae Irving/202/juridiksioni
+Enciklopedi/978-0711249158/Encyclopedia of Insects/Carde Ring,Vincent H.Resh/164/shtazore
+Enciklopedi/978-1465483669/American History:A Visual Encyclopedia/David C.King/300/historike
+Enciklopedi/978-0123705303/Encyclopedia of Gerontology/James Birren/315/shkenca-sociale
+Enciklopedi/978-0199691869/The Oxford Companion to Irish History/Sean J.Connolly/289/historike
+Enciklopedi/978-0789410672/Encyclopedia of Medicinal Plants/Andrew Chevallier/404/mjekesore
+Enciklopedi/978-0195310368/The Encyclopedia of Social Work/Terry Mizrahi/365/sociale
+Enciklopedi/978-1452274133/Public Service Ethics:Individual and Institutional/James Bowman,Jonathan P. West/366/sociale
+Fjalor/978-1596951655/Spanish-English Dictionary/Merriam-Webster/612/perkthim ang-spnj
+Fjalor/978-1107619500/Cambridge Advanced Learner's Dictionary/Colin Mclntosh/652/biznes ang-ang
+Fjalor/978-1438008769/Dictionary of Real Estate Terms/Colin Mclntosh/56/akademik ang-ang
+Fjalor/978-1438007106/Italian-English Dictionary/Ursula Martini/661/perkthim ang-ital
+Fjalor/978-0140512540/The Penguin Dictionary of Symbols/Jean Chevalier/670/komunikimi-joverbal ang
+Fjalor/978-0399514906/Signing Made Easy/Rod R. Butterworth/699/akademik-joverbal ang
+Fjalor/978-1780718323/English-Serbian Dictionary/Andrey Taranov/108/perkthim ang-serb
+Fjalor/978-0198603221/Oxford Albanian-English Dictionary/Leonard Newmark/667/perkthim ang-shqip
+Fjalor/1540540820/English-Dutch Dictionary/John C. Rigdon/632/perkthim ang-gjerm
+Fjalor/B071X1WDDS/Dutch - Albanian Albanian-Dutch Vocabulary/Jerry Greer/685/perkthim alb-gjerm
